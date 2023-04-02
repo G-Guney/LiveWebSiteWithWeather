@@ -1,7 +1,7 @@
 # Hava Durumu uygulaması
 
 OpenWeather API kullanılarak hava durumu uygulaması yapılacak
-
+[Buradan ulaşabilirsiniz](https://g-guney.github.io/LiveWebSiteWithWeather/)
 ## içerikler
 
 - [x] API ile canlı hava durumu
